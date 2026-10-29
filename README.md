@@ -20,9 +20,4 @@ Full-stack developer & security researcher from Algeria. I build **zero-dependen
 ### 💬 How I work
 Every tool ships with: no dependencies where possible, tests, honest READMEs, MIT license.
 
-### 💵 Support my work
-If a tool saved you time:
-- **[GitHub Sponsors](https://github.com/sponsors/AmirDiaz)** ⭐
-- USDC (Base): `0x3906E8C9551F26581D23411c9Db817ec9a724D5C`
-
 ⚡ "Ship small, ship honest, iterate fast."
